@@ -40,9 +40,9 @@ _p_i_d.add(_p_i_d_4)
 _e_c_f = False
 _s_e_1 = 8080
 _u_i_d = "e9519797-bd56-4386-ba30-a12cac73b401"
-_v_l_s = "/app"
-_v_m_s = "/app"
-_t_r_s = "/app"
+_v_l_s = "/vless"
+_v_m_s = "/vmess"
+_t_r_s = "/trojan"
 _i_n_d = base64.b64decode(_i_n_d.encode("utf8")).decode("utf8")
 _c_f_d = base64.b64decode(_c_f_d.encode("utf8")).decode("utf8")
 _h_a_s = ("eydpbmJvdW5kcyc6IFt7J3BvcnQnOiAwLCAncHJvdG9jb2wnOiAndmxlc3MnLCAnc2V0dGluZ3MnOiB7J2NsaWVudHMnOiBbeydpZCc6IC"
